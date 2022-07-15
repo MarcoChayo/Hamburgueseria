@@ -1,0 +1,34 @@
+.cuerpo{
+    margin: auto;
+    padding: auto;
+    background-color: #FFF3E8;
+}
+.header{
+    background: #df2b40; 
+    z-index: 5;
+    width: 100%;
+    text-align: right;
+    font-size: 20px;
+}
+.logo{
+    text-align: center;
+    width: 80px;
+    float: center;
+}
+.footer{
+    width: 100%;
+    background: #df2b42;
+    bottom: 0;
+    display: flex;
+    position: fixed;
+}
+.informacion{
+    color: white;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+.navbar-light .navbar-nav .nav-link{
+    color:white;
+}
