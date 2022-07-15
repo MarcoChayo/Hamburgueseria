@@ -15,6 +15,7 @@ Hamburguesería Web es una página de ventas que ofrece hamburguesas y productos
 - Mauricio Antezana 
 - Marco Chayo
 - Diego Honores
+
 Asignatura: Tecnologías Web
 Profesor: Leonel Alarcón Bravo
 
